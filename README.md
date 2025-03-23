@@ -17,6 +17,8 @@ Il est idéal pour repartir sur **une base propre**, résoudre les **conflits en
 ## ⚙️ Fonctionnement du script :
 
 ### 🧹 Étape Principale 1 – Nettoyage complet :
+**⏱ Temps estimé : 2 à 5 minutes**
+
 - Désinstalle :
   - Pterodactyl Panel
   - Wings
@@ -32,6 +34,8 @@ Il est idéal pour repartir sur **une base propre**, résoudre les **conflits en
 ---
 
 ### ⚒️ Étape Principale 2 – Réinstallation propre :
+**⏱ Temps estimé : 5 à 10 minutes**
+
 - Installe :
   - Nginx
   - Apache
@@ -44,6 +48,8 @@ Il est idéal pour repartir sur **une base propre**, résoudre les **conflits en
 ---
 
 ### 🛠️ Étape Principale 3 – Configuration et test final :
+**⏱ Temps estimé : 2 à 4 minutes**
+
 - Configuration automatique de :
   - Nginx
   - Apache
@@ -51,6 +57,10 @@ Il est idéal pour repartir sur **une base propre**, résoudre les **conflits en
 - Nettoyage final
 - Résumé des étapes
 - Affichage des **erreurs détectées pendant le processus**
+
+---
+
+### 🕐 Temps total estimé : **10 à 20 minutes maximum**, selon la puissance de votre VPS et la vitesse réseau.
 
 ---
 
@@ -90,5 +100,3 @@ bash <(wget -qO- https://raw.githubusercontent.com/itzfrenedel/ultra-fix-pteroda
 
 ## ✨ Crédits :
 > Script créé par **FreneDel** – Pour vous simplifier la vie système ❤️
-
----
